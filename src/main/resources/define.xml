@@ -1,0 +1,10 @@
+<configuration>
+
+    <define name="rootLevel" class="a.class.implementing.PropertyDefiner">
+        <shape>round</shape>
+        <color>brown</color>
+        <size>24</size>
+    </define>
+
+    <root level="debug"/>
+</configuration>
